@@ -14,7 +14,7 @@ function init(){
     //ES 2
     setInterval(sessionTimer, 1000);
 
-
+    //ES 1
     loginButton();
     delButton();
 
